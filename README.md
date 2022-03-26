@@ -16,6 +16,7 @@ Este git é para armazenamento de aqruivos com dicas de python para manter exemp
 
 # Comandos GIT mais usados
 - git clone
+- git branch
 - git pull
 - git add .
 - git commit -m "comments"
