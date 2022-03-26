@@ -12,7 +12,9 @@ Este git é para armazenamento de aqruivos com dicas de python para manter exemp
 |---------------------------------------------------------------------|----------------------------------------|
 |Make exact copy of an environment                                    |conda create --clone py35 --name py35-2 |
 |Get a list of all my environments, active environment is shown with* |conda env list                          |
-|List all packages and versions installed in active environment       |conda list                              |     
+|List all packages and versions installed in active environment       |conda list                              | 
+|Change Jupyter Notebook working directory                             |jupyter notebook --generate-config      | 
+
 
 ## Comandos GIT mais usados
 - git clone
