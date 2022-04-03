@@ -14,7 +14,8 @@ Este git é para armazenamento de aqruivos com dicas de python para manter exemp
 |Get a list of all my environments, active environment is shown with* |conda env list                          |
 |List all packages and versions installed in active environment       |conda list                              | 
 |Change Jupyter Notebook working directory                             |jupyter notebook --generate-config     | 
-|Delete an environment and everything in it          |conda env remove --name bio-env     | 
+|Delete an environment and everything in it          |conda env remove --name myenv-env     | 
+|Removendo toda a env                                |conda remove --name myenv --all |
 
 # GIT
 
